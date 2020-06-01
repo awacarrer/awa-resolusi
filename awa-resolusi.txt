@@ -1,6 +1,10 @@
 AWA RESOLUSI
--saya ingin konsisten belajar web
--saya ingin membuat website sendiri
--saya ingin membuat portfolio
--saya ingin membuat team kerja
-
+1.Belajar web programming dengan konsisten
+2.belajar html
+3.javascript
+4.php dasar
+5.php crud
+6.php oop
+7.php mvc
+8.php framework laravel
+9.dan saya yang belajar framework codenigter
