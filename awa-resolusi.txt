@@ -1,10 +1,10 @@
 AWA RESOLUSI
 1.Belajar web programming dengan konsisten
-2.belajar html
-3.javascript
-4.php dasar
-5.php crud
-6.php oop
-7.php mvc
-8.php framework laravel
-9.dan saya yang belajar framework codenigter
+2.belajar html sudah
+3.javascript sudah
+4.php dasar sudah
+5.php crud sudah
+6.php oop sudah
+7.php mvc sudah
+8.php framework laravel sedang belajar  
+9.dan saya yang belajar framework codenigter belom di pelajari
